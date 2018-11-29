@@ -1,0 +1,9 @@
+C:\PROYECTOS_for_TEST\Cod_test-01\Cod_test-01\bin\Debug\Cod_test-01.exe.config
+C:\PROYECTOS_for_TEST\Cod_test-01\Cod_test-01\bin\Debug\Cod_test-01.exe
+C:\PROYECTOS_for_TEST\Cod_test-01\Cod_test-01\bin\Debug\Cod_test-01.pdb
+C:\PROYECTOS_for_TEST\Cod_test-01\Cod_test-01\obj\Debug\Cod_test_01.Form1.resources
+C:\PROYECTOS_for_TEST\Cod_test-01\Cod_test-01\obj\Debug\Cod_test_01.Properties.Resources.resources
+C:\PROYECTOS_for_TEST\Cod_test-01\Cod_test-01\obj\Debug\Cod_test-01.csproj.GenerateResource.Cache
+C:\PROYECTOS_for_TEST\Cod_test-01\Cod_test-01\obj\Debug\Cod_test-01.exe
+C:\PROYECTOS_for_TEST\Cod_test-01\Cod_test-01\obj\Debug\Cod_test-01.pdb
+C:\PROYECTOS_for_TEST\Cod_test-01\Cod_test-01\obj\Debug\Cod_test-01.csprojResolveAssemblyReference.cache
